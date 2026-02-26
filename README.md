@@ -285,10 +285,10 @@ Fun Facts:
 
 <div align="center">
 
-[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-x2-6AD3F7?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=pull-shark&tab=achievements)&nbsp;
-[![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-Earned-purple?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=galaxy-brain&tab=achievements)&nbsp;
-[![YOLO](https://img.shields.io/badge/🎯_YOLO-Earned-orange?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=yolo&tab=achievements)&nbsp;
-[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Earned-yellow?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=quickdraw&tab=achievements)
+[![Pull Shark](https://img.shields.io/badge/🦈_Pull_Shark-x1-6AD3F7?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=pull-shark&tab=achievements)&nbsp;
+[![Galaxy Brain](https://img.shields.io/badge/🧠_Galaxy_Brain-UnEarned-purple?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=galaxy-brain&tab=achievements)&nbsp;
+[![YOLO](https://img.shields.io/badge/🎯_YOLO-UnEarned-orange?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=yolo&tab=achievements)&nbsp;
+[![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-UnEarned-yellow?style=for-the-badge&labelColor=0d1117)](https://github.com/Harshit-Pachori?achievement=quickdraw&tab=achievements)
 
 </div>
 
